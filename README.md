@@ -1,6 +1,6 @@
 ### Hi there 👋
 Not working on anything currently<br>
-Fluent in Python, basic HTML<br>
+Fluent in Python, basic HTML/CSS/JS<br>
 https://matthewnaquin.net
 <!--
 **MatthewNaquin/MatthewNaquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
